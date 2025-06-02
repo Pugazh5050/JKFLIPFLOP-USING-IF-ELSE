@@ -2,7 +2,7 @@ Developed by: PUGAZHALENTHI V
 
 RegisterNumber: 212224100047
 
-# JKFLIPFLOP-USING-IF-ELSE
+# JK FLIPFLOP
 
 **AIM:** 
 
